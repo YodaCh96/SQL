@@ -1,0 +1,4 @@
+SHOW TABLES;
+DESCRIBE artikel;
+DESCRIBE person;
+DROP TABLE person;
