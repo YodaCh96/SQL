@@ -1,6 +1,6 @@
 # Datenbanktechnologien
 
-- Informationen zu diesem Dokument
+- [Informationen zu diesem Dokument](doc/01_Informationen_zu_diesem_Dokument.md)
   - Zu diesem Dokument
   - Technische Voraussetzungen
   - Methodische Voraussetzungen
