@@ -12,7 +12,7 @@ preis FLOAT
 );
 
 /* Löschen Sie die Tabelle und anschliessend die Datenbank. */
-DROP TABLE IF EXISTS artikel;
+DROP TABLE artikel;
 DROP DATABASE IF EXISTS testdb;
 
 /* Wechseln Sie zur Datenbank Uebungen. */
