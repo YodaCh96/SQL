@@ -1,0 +1,3 @@
+SELECT plz, ort FROM ma LIMIT 10;
+SELECT DISTINCT plz,ort FROM ma LIMIT 10;
+ 

@@ -1,0 +1,2 @@
+CREATE DATABASE demo
+  WITH OWNER "mcooper";

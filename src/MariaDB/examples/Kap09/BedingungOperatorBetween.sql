@@ -1,0 +1,3 @@
+SELECT * FROM lager WHERE preis >= 10 AND preis <= 100;
+SELECT * FROM lager WHERE preis BETWEEN 10 AND 100;
+SELECT * FROM ma WHERE name BETWEEN 'Be' AND 'Bo';

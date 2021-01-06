@@ -1,0 +1,1 @@
+SELECT vname, name FROM ma_ch WHERE plz LIKE "6%" LIMIT 5,10;
